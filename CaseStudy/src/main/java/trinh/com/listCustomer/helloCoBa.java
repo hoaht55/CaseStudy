@@ -1,6 +1,6 @@
 package trinh.com.listCustomer;
 /*
- * hưng chim rụt
+ * trình
  */
 public class helloCoBa {
     public static void main(String[] args) {
