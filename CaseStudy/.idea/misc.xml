@@ -16,6 +16,9 @@
   <component name="ClearCaseSharedConfig">
     <option name="myUseUcmModel" value="true" />
   </component>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
   <component name="IdProvider" IDEtalkID="C9A5DA7800FCDD62B643569463B6CF56" />
   <component name="JavadocGenerationManager">
     <option name="OUTPUT_DIRECTORY" />
