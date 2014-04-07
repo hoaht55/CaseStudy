@@ -96,7 +96,7 @@
       <file leaf-file-name="helloCoBa.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/trinh/com/listCustomer/helloCoBa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="8" selection-start="43" selection-end="43" vertical-scroll-proportion="0.055737704" vertical-offset="0" max-vertical-offset="610">
+            <state line="9" column="0" selection-start="168" selection-end="168" vertical-scroll-proportion="0.25081968" vertical-offset="0" max-vertical-offset="610">
               <folding />
             </state>
           </provider>
@@ -618,16 +618,16 @@
       <created>1396862511388</created>
       <updated>1396862511388</updated>
       <workItem from="1396862514406" duration="1724000" />
-      <workItem from="1396865379878" duration="63000" />
+      <workItem from="1396865379878" duration="324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1787000" />
+    <option name="totallyTimeSpent" value="2048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -740,7 +740,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/trinh/com/listCustomer/helloCoBa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="8" selection-start="43" selection-end="43" vertical-scroll-proportion="0.055737704" vertical-offset="0" max-vertical-offset="610">
+        <state line="9" column="0" selection-start="168" selection-end="168" vertical-scroll-proportion="0.25081968" vertical-offset="0" max-vertical-offset="610">
           <folding />
         </state>
       </provider>
